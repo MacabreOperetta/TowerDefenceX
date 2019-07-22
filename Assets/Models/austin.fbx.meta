@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: dc41f594122bd574ca8f7c554a419ebe
+timeCreated: 1521236356
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: front
+    100006: front_whee
+    100008: fuel_cage
+    100010: fuel_cans
+    100012: machine_gu
+    100014: main_body
+    100016: rear_
+    100018: rear_wheel
+    100020: rivets
+    100022: rivets_MeshPart0
+    100024: rivets_MeshPart1
+    100026: sights
+    100028: undercarri
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: front
+    400006: front_whee
+    400008: fuel_cage
+    400010: fuel_cans
+    400012: machine_gu
+    400014: main_body
+    400016: rear_
+    400018: rear_wheel
+    400020: rivets
+    400022: rivets_MeshPart0
+    400024: rivets_MeshPart1
+    400026: sights
+    400028: undercarri
+    2000000: CINEMA_4D_Editor
+    2300000: front
+    2300002: front_whee
+    2300004: fuel_cage
+    2300006: fuel_cans
+    2300008: machine_gu
+    2300010: main_body
+    2300012: rear_
+    2300014: rear_wheel
+    2300016: rivets_MeshPart0
+    2300018: rivets_MeshPart1
+    2300020: sights
+    2300022: undercarri
+    3300000: front
+    3300002: front_whee
+    3300004: fuel_cage
+    3300006: fuel_cans
+    3300008: machine_gu
+    3300010: main_body
+    3300012: rear_
+    3300014: rear_wheel
+    3300016: rivets_MeshPart0
+    3300018: rivets_MeshPart1
+    3300020: sights
+    3300022: undercarri
+    4300000: machine_gu
+    4300002: fuel_cans
+    4300004: fuel_cage
+    4300006: rear_wheel
+    4300008: rear_
+    4300010: undercarri
+    4300012: front_whee
+    4300014: front
+    4300016: main_body
+    4300018: rivets_MeshPart0
+    4300020: rivets_MeshPart1
+    4300022: sights
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0c33c0c9120a4a5459558163a40862ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
